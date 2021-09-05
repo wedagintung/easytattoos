@@ -1,6 +1,6 @@
 ######################## default configuration ####################
-baseURL = "https://jimbaranpremiere.online"
-title = "Jimbaran Premiere"
+baseURL = "https://dehouseplans.netlify.app"
+title = "De House Plans"
 theme = "jala"
 languageName = "En"
 languageCode = "en-us"
@@ -73,7 +73,7 @@ weight = 5
 [params]
 logo = "images/logo.png"
 # Meta data
-description = "Best jimbaran Visit"
+description = "Best House Plans"
 author = ""
 
 # search  
@@ -81,7 +81,7 @@ search = true
 # contact form action
 contact_form_action = "#" # contact form works with https://formspree.io
 # copyright
-copyright = "Copyright 2021 [jimbaran premiere](https://jimbaranpremiere.online)"
+copyright = "Copyright 2021 [De House Plans](https://dehouseplans.netlify.app)"
 
 
 # Preloader
