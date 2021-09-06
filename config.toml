@@ -1,6 +1,6 @@
 ######################## default configuration ####################
-baseURL = "https://tophouseplans.netlify.app"
-title = "Top House Plans"
+baseURL = "https://easytattoos.netlify.app"
+title = "Easy Tattoos Ideas"
 theme = "jala"
 languageName = "En"
 languageCode = "en-us"
@@ -73,7 +73,7 @@ weight = 5
 [params]
 logo = "images/logo.png"
 # Meta data
-description = "Top House Plans"
+description = "Easy Tattoos Ideas"
 author = ""
 
 # search  
@@ -81,7 +81,7 @@ search = true
 # contact form action
 contact_form_action = "#" # contact form works with https://formspree.io
 # copyright
-copyright = "Copyright 2021 Top House Plans](https://tophouseplans.netlify.app)"
+copyright = "Copyright 2021 Easy Tattoos Ideas](https://easytattoos.netlify.app)"
 
 
 # Preloader
