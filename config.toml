@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://easytattoos.netlify.app"
+baseURL = "https://easytattoos.kreesna.com"
 title = "Easy Tattoos Ideas"
 theme = "jala"
 languageName = "En"
@@ -81,7 +81,7 @@ search = true
 # contact form action
 contact_form_action = "#" # contact form works with https://formspree.io
 # copyright
-copyright = "Copyright 2021 Easy Tattoos Ideas](https://easytattoos.netlify.app)"
+copyright = "Copyright 2021 Easy Tattoos Ideas](https://easytattoos.kreesna.com)"
 
 
 # Preloader
